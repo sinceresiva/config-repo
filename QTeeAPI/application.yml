@@ -6,9 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: baz
-environment: devDevelopment
-expansion: dev in development branch
+foo: siva
 ---
 spring:
   profiles: cloud
