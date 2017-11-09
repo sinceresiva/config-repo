@@ -1,0 +1,11 @@
+environment: qa
+expansion: qa branch
+connectionStrings:
+    sampleConnectionString: Some sample qa connectionString
+header:
+    -   Name: Brazil
+        Population: 1.1B
+    -   Name: Chile
+        Population: 100M
+    -   Name: Argentina
+        Population: 600M
